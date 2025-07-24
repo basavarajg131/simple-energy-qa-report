@@ -4,8 +4,8 @@ This repository contains a self-initiated UI Testing project conducted on the [S
 ---
 ## 📂 Project Structure
 simple-energy-ui-tests/
-├── test-cases/
-│ └── simple_energy_ui_tests.xlsx
+├── simple_energy_ui_tests.xlsx
+│
 ├── screenshots/
 │ ├── TC_UI_001_Footer.png
 │ ├── TC_UI_002_MediaCard.png
